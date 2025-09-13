@@ -33,7 +33,12 @@ Accuracy, Precision, Recall, and F1-Score are used to measure performance.
 A confusion matrix shows how well the system identifies spam vs. non-spam.
 
 Tech Stack
+
 Python
+
 NLP Libraries: NLTK, SpaCy
+
 ML Libraries: Scikit-learn, Pandas, NumPy
+
 Algorithms: Naive Bayes (most common for spam detection), SVM, Logistic Regression
+
